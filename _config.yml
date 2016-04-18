@@ -1,0 +1,28 @@
+name: MSFthegame.org
+favicon: null
+layout_spectrum: 0.43968487507663667
+typography_spectrum: 0.7069915689062327
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.06905726343393326
+  lightness: 0.09426255873404443
+  saturation: 0.41033803252503276
+  rhythmicContrast: 0.1693894173949957
+purpose: []
